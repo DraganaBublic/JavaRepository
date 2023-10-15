@@ -1,25 +1,29 @@
 Benchmarking-Java-Sort
 Benchmark-Sort-Java is a project I completed as part of my module in Computational Thinking. It evaluates and compares sorting algorithms in Java.
 
-Sorting Algorithms Benchmark in Java
+##Sorting Algorithms Benchmark in Java
 This project is a Java-based benchmarking tool for evaluating the performance of various sorting algorithms. It provides insights into how different sorting algorithms perform under various conditions and input sizes.
 
-Introduction
+##Introduction
 Sorting is a fundamental operation in computer science, and the choice of sorting algorithm can significantly impact the efficiency of data processing tasks.
 
 Understand the performance characteristics of different sorting algorithms. Choose the most appropriate sorting algorithm for specific use cases. Visualize and analyze benchmarking results.
 
-Algorithms Included
+##Algorithms Included
 This project includes implementations of the following sorting algorithms:
 
 Bubble Sort Selection Sort Insertion Sort Quick Sort Counting Sort
 
 Each algorithm is thoroughly benchmarked under various input sizes to provide insights into its efficiency.
 
-Project Structure
+##Project Structure
 The project is organized with the following directory structure:
 src/ie/atu/sw: This is where the Java source code for the project is located. 
 
-How to Use
-Clone the repository to your local machine.
+##How to Use
+1. Clone the repository to your local machine using the following command:
 
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+2. After cloning, you can navigate to the project's source code:
+   cd your-repository/src/ie/atu/sw
