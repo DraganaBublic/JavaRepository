@@ -16,6 +16,10 @@ Bubble Sort Selection Sort Insertion Sort Quick Sort Counting Sort
 
 Each algorithm is thoroughly benchmarked under various input sizes to provide insights into its efficiency.
 
+Project Structure
+The project is organized with the following directory structure:
+src/ie/atu/sw: This is where the Java source code for the project is located. 
+
 How to Use
 Clone the repository to your local machine.
 
