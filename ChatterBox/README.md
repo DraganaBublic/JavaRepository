@@ -33,7 +33,8 @@ The server maintains a list of connected users, and updates are broadcasted when
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute it as per the license terms. If you have any suggestions or improvements, please feel free to contribute!
+
 ## Screenshots
-![Server](ChatterBox/src/ie/atu/sw/ServerSide.png)
-![Client 1](ChatterBox/src/ie/atu/sw/Client.png)
-![Client 2](ChatterBox/src/ie/atu/sw/Client2.png)
+![Server Side](src/ie/atu/sw/ServerSide.png)
+![Client](src/ie/atu/sw/Client.png)
+![Client 2](src/ie/atu/sw/Client2.png)
