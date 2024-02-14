@@ -16,15 +16,15 @@ ChatterBox is a simple chat application that allows users to connect to a centra
 6. Timestamps: Messages are accompanied by timestamps indicating when they were sent.
 
 ## How to Use
--Server
+- Server
 Compile the server application: javac ie/atu/sw/ChatServer.java
 Run the server: java ie.atu.sw.ChatServer <port-number>
--Client
+- Client
 Compile the client application: javac ie/atu/sw/ChatClient.java
 Run the client: java ie.atu.sw.ChatClient <hostname> <port-number>
 Enter your desired username when prompted.
 Start chatting!
--Commands
+- Commands
 To send a message: Simply type your message and press Enter.
 To quit the chat: Type 'q' and press Enter.
 ## Important Notes
@@ -34,6 +34,6 @@ The server maintains a list of connected users, and updates are broadcasted when
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute it as per the license terms. If you have any suggestions or improvements, please feel free to contribute!
 ## Screenshots
-![Server](images/"C:\Users\draga\OneDrive\Radna površina\PROJECTS\JavaRepository\ChatterBox\src\ie\atu\sw\Images\ServerSide.png")
-![Client 1](images/"C:\Users\draga\OneDrive\Radna površina\PROJECTS\JavaRepository\ChatterBox\src\ie\atu\sw\Images\Client.png")
-![Client 2](images/"C:\Users\draga\OneDrive\Radna površina\PROJECTS\JavaRepository\ChatterBox\src\ie\atu\sw\Images\Client2.png")
+![Server](ChatterBox/src/ie/atu/sw/ServerSide.png)
+![Client 1](ChatterBox/src/ie/atu/sw/Client.png)
+![Client 2](ChatterBox/src/ie/atu/sw/Client2.png)
