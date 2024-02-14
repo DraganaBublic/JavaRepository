@@ -16,17 +16,18 @@ ChatterBox is a simple chat application that allows users to connect to a centra
 6. Timestamps: Messages are accompanied by timestamps indicating when they were sent.
 
 ## How to Use
-- Server
+- Server: 
 Compile the server application: javac ie/atu/sw/ChatServer.java
 Run the server: java ie.atu.sw.ChatServer <port-number>
-- Client
+- Client: 
 Compile the client application: javac ie/atu/sw/ChatClient.java
-Run the client: java ie.atu.sw.ChatClient <hostname> <port-number>
+- Run the client: java ie.atu.sw.ChatClient <hostname> <port-number>
 Enter your desired username when prompted.
 Start chatting!
 - Commands
-To send a message: Simply type your message and press Enter.
-To quit the chat: Type 'q' and press Enter.
+1. To send a message: Simply type your message and press Enter.
+2. To quit the chat: Type 'q' and press Enter.
+   
 ## Important Notes
 Messages are broadcasted to all connected users.
 The server maintains a list of connected users, and updates are broadcasted whenever a new user connects or an existing user disconnects.
